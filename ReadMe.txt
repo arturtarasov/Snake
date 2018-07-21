@@ -1,1 +1,1 @@
-Разработано мультиплеерное приложение "Змейка". В папке Builds вы найдете файлы для Android и Windows.
+Developed multiplayer application "Snake". In the Builds folder you will find files for Android and Windows.
