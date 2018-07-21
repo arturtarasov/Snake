@@ -1,0 +1,30 @@
+Initialize engine version: 2017.1.0p2 (31954117ff6c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0xf02)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tarasov.a\Desktop\SnakeWindows_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tarasov.a\Desktop\SnakeWindows_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tarasov.a\Desktop\SnakeWindows_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tarasov.a\Desktop\SnakeWindows_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tarasov.a\Desktop\SnakeWindows_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\tarasov.a\Desktop\SnakeWindows_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\tarasov.a\Desktop\SnakeWindows_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\tarasov.a\Desktop\SnakeWindows_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\tarasov.a\Desktop\SnakeWindows_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\tarasov.a\Desktop\SnakeWindows_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\tarasov.a\Desktop\SnakeWindows_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\tarasov.a\Desktop\SnakeWindows_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.249 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.262315 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2fd8 -> priority: 1 
+  Thread -> id: 3a68 -> priority: 1 
